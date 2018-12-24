@@ -3,18 +3,22 @@ var Letter = function (character) {
     this.isGuessed = false;
 }
 
-Letter.prototype.toString = function(){
-    if(this.isGuessed === true){
+//Use to input correct letters or return underscores
+Letter.prototype.toString = function () {
+    if (this.isGuessed === true) {
         return this.character;
     } else {
         return "_";
     }
 }
-Letter.prototype.isCorrect = function (character) {
-        //check if correct, update to true if so
-    if (character.toLowercase() === this.character.toLowerCase()){
-    this.isGuessed = true;
-    return true;
+
+//Use to see if input is correct or not, compares at lowercase
+Letter.prototype.isCorrect = function (char, error) {
+    //check if correct, update to true if so
+    if (error) throw error;
+    if (char.toLowerCase() === this.character.toLowerCase()) {
+        this.isGuessed = true;
+        return true;
     } else {
         return false;
     };

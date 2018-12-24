@@ -1,4 +1,4 @@
-# ![constructor-word-guess](https://alejosjen.github.io/constructor-word-guess/)
+# [constructor-word-guess](https://alejosjen.github.io/constructor-word-guess/)
 
 Hi and welcome! This command-line game is for the user to guess words based on yummy treats found in a bakery.
 

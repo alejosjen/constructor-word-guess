@@ -3,18 +3,18 @@
 Hi and welcome! This command-line game is for the user to guess words based on yummy treats found in a bakery.
 
 ## Game
--To start:
-  -Enter in the command line 
-    -node index.js
+- To start:
+  - Enter in the command line 
+    - node index.js
 
--To play:
-  -Enter a letter from the keyboard
-  -If you guess correctly, your letter will show up in the word.
-  -If you guess incorrectly, your letter is eaten by the cookie monster (not literally).
+- To play:
+  - Enter a letter from the keyboard
+  - If you guess correctly, your letter will show up in the word.
+  - If you guess incorrectly, your letter is eaten by the cookie monster (not literally).
 
--End of Round or Game
-  -If you guess the whole word correctly, you'll be presented with a new word to play.
-  -If you run out of guesses, the round is over and you can press the arrow keys to choose **Yes** to play again or **No** to end the game.
+- End of Round or Game
+  - If you guess the whole word correctly, you'll be presented with a new word to play.
+  - If you run out of guesses, the round is over and you can press the arrow keys to choose **Yes** to play again or **No** to end the game.
 
 ## Start of game
 ![Gif of start of game](https://thumbs.gfycat.com/RawSlipperyCurlew-small.gif)

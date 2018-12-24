@@ -17,11 +17,10 @@ Hi and welcome! This command-line game is for the user to guess words based on y
   -If you run out of guesses, the round is over and you can press the arrow keys to choose **Yes** to play again or **No** to end the game.
 
 ## Start of game
-(https://gfycat.com/forsakenunacceptableastrangiacoral)
+![Gif of start of game](https://thumbs.gfycat.com/RawSlipperyCurlew-small.gif)
 
 ## End of Round & Prompt
-(/assets/videos/constructorWordGame-PromptNewGameOrStartRound.mov)
-
+![Gif of rounds and prompts](https://thumbs.gfycat.com/ForsakenUnacceptableAstrangiacoral-small.gif)
 ### Notes
 The challenge was using Javascript constructor functions and then having each constructor export to another file. The index.js runs the game and utilizes Word.js to store, format, and update words. Word.js utilizes Letter.js to turn user input into strings and checks the value for use in the game, whether the letter is put into play or discarded and the placeholder remains. 
 

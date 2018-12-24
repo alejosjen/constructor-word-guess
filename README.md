@@ -22,6 +22,8 @@ Hi and welcome! This command-line game is for the user to guess words based on y
 ## End of Round & Prompt
 ![Gif of rounds and prompts](https://thumbs.gfycat.com/ForsakenUnacceptableAstrangiacoral-small.gif)
 ### Notes
+Installed in packages.json: node and inquirer
+
 The challenge was using Javascript constructor functions and then having each constructor export to another file. The index.js runs the game and utilizes Word.js to store, format, and update words. Word.js utilizes Letter.js to turn user input into strings and checks the value for use in the game, whether the letter is put into play or discarded and the placeholder remains. 
 
 I learned a great deal about exporting in regards to the single responsibility principle. Once one function was complete I could leave it alone and work on the next part. I think in future I would create more files to manage running different parts of the game because it became difficult to read and remember where functions were.

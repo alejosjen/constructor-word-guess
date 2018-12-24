@@ -17,7 +17,7 @@ Hi and welcome! This command-line game is for the user to guess words based on y
   -If you run out of guesses, the round is over and you can press the arrow keys to choose **Yes** to play again or **No** to end the game.
 
 ## Start of game
-(/assets/videos/constructorWordGame-guessedWord.mov)
+(<div style='position:relative; padding-bottom:71.95%'><iframe src='https://gfycat.com/ifr/ForsakenUnacceptableAstrangiacoral' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>)
 
 ## End of Round & Prompt
 (/assets/videos/constructorWordGame-PromptNewGameOrStartRound.mov)
